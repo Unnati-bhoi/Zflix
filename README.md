@@ -21,6 +21,15 @@ A full-stack Movie Streaming Web Application developed using PHP, MySQL, HTML, C
 
 ## 📸 Screenshots
 ![homepage admin](screenshot/homepage_admin.png)
+![homepage guest](screenshot/homepage_guest.png)
+![register page](screenshot/register%20guest.png)
+![payment method](screenshot/payment_method.png)
+![payment detail](screenshot/payment_detail.png)
+![payment option](screenshot/payment_option.png)
+![payment bank](screenshot/payment_bank.png)
+![payment successful](screenshot/payment_successful.png)
+![movies](screenshot/movies.png)
+![tvshows](screenshot/tvshows%20guest.png)
 
 ## 🚀 Installation
 
