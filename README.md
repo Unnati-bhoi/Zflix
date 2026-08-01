@@ -20,7 +20,7 @@ A full-stack Movie Streaming Web Application developed using PHP, MySQL, HTML, C
 - XAMPP
 
 ## 📸 Screenshots
-![homepageadmin](screenshot/homepage%20admin.png)
+![homepageadmin](screenshot/homepage_admin.png
 
 ## 🚀 Installation
 
