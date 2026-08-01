@@ -19,6 +19,9 @@ A full-stack Movie Streaming Web Application developed using PHP, MySQL, HTML, C
 - Bootstrap
 - XAMPP
 
+## 📸 Screenshots
+![homepage_admin](screenshot/homepage_admin.png)
+
 ## 🚀 Installation
 
 1. Clone the repository
